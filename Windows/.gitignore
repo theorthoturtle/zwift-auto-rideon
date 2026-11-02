@@ -1,0 +1,11 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Created when the app runs - personal to each computer, never commit
+identity.json
+gui_settings.txt
+gui_position.txt
+*.log
+*.log.old

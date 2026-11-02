@@ -1,0 +1,8 @@
+# Mac scripts must keep Unix (LF) line endings, even when committed from Windows
+* text=auto
+*.sh text eol=lf
+*.command text eol=lf
+*.py text eol=lf
+*.icns binary
+*.png binary
+*.zip binary

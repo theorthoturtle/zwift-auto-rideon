@@ -1,0 +1,7 @@
+# Normalise line endings; Windows scripts keep CRLF
+* text=auto
+*.bat text eol=crlf
+*.vbs text eol=crlf
+*.ico binary
+*.png binary
+*.zip binary

@@ -1,0 +1,15 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Built by install.sh on each Mac
+Auto Ride On.app/
+
+# Created when the app runs - personal to each computer, never commit
+identity.json
+gui_settings.txt
+gui_position.txt
+*.log
+*.log.old
+.DS_Store
